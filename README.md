@@ -1,4 +1,4 @@
-<img src ="https://giphy.com/explore/1080p" align="right" width="250" height="200">
+<img src ="https://giphy.com/embed/PNCWl4fqb2mWQN86Cv" align="right" width="250" height="200">
 
 ## Hi there I'm Fırat
 
