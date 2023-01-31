@@ -2,6 +2,12 @@
 
 ##
 ##
+##
+##
+##
+##
+
+
 ## Hi there I'm Fırat
 
 ## I'm a student and I'm trying to improve myself in the field of software.
