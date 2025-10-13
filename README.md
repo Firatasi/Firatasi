@@ -2,14 +2,13 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmEybXZraG4xMXIwdjIwemc2a2g2MHQ1NzVxdnA4cjlsYmgyMWJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gU25raLP4pUu4/giphy.gif" 
        alt="funny animation" 
        width="4000" 
-       height="250"/>
+       height="100"/>
 </p>
 
 
 ##
 ##
-##
-## 
+
 
 👋 Hi there! I’m Fırat Asi, a Computer Information Systems Engineering student passionate about software development and technology.<br><br>💻 I mainly work with Java and Spring Boot, but I also enjoy exploring C#, JavaScript, and web technologies like HTML, CSS, and Bootstrap.<br>🗄️ I have experience with various databases including PostgreSQL, MySQL, SQL Server, and SQLite.<br><br>🎯 My goal is to build efficient, scalable, and user-friendly applications while continuously improving my skills in backend and full-stack development.<br>🚀 I’m currently focusing on enhancing my knowledge in API development, object-oriented design, and database management systems.<br><br>📚 Always eager to learn, collaborate, and contribute to open-source projects that make a difference.
 
@@ -27,3 +26,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Firatasi&icon=6&color=4)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmEybXZraG4xMXIwdjIwemc2a2g2MHQ1NzVxdnA4cjlsYmgyMWJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gU25raLP4pUu4/giphy.gif" 
+       alt="funny animation" 
+       width="4000" 
+       height="100"/>
+</p>
