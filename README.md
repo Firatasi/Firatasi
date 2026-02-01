@@ -10,7 +10,21 @@
 ##
 
 
-👋 Hi there! I’m Fırat Asi, a Computer Information Systems Engineering student passionate about software development and technology.<br><br>💻 I mainly work with Java and Spring Boot, but I also enjoy exploring C#, JavaScript, and web technologies like HTML, CSS, and Bootstrap.<br>🗄️ I have experience with various databases including PostgreSQL, MySQL, SQL Server, and SQLite.<br><br>🎯 My goal is to build efficient, scalable, and user-friendly applications while continuously improving my skills in backend and full-stack development.<br>🚀 I’m currently focusing on enhancing my knowledge in API development, object-oriented design, and database management systems.<br><br>📚 Always eager to learn, collaborate, and contribute to open-source projects that make a difference.
+👋 Merhaba, ben Fırat ASI.
+
+Bilişim Sistemleri Mühendisliği öğrencisiyim ve yazılım geliştirmeye özellikle **backend mimarileri** üzerinden yaklaşmayı tercih ediyorum. Benim için backend; sadece “çalışan kod” değil, **doğru tasarlanmış, sürdürülebilir ve ölçeklenebilir sistemler** demek.
+
+Ağırlıklı olarak **Java ve Spring Boot** ile çalışıyorum. Geliştirdiğim projelerde RESTful API’ler, katmanlı mimari, JPA/Hibernate ve ilişkisel veritabanı tasarımı üzerine odaklanıyorum. Kod yazarken temiz kod prensiplerini, sorumlulukların ayrılmasını ve okunabilirliği önceliklendiriyorum.
+
+Veri tarafında **PostgreSQL, MySQL ve SQL Server** ile çalışma deneyimim bulunuyor. Uygulama geliştirirken veritabanı tasarımının sistem performansı ve sürdürülebilirliği üzerindeki etkisini özellikle önemsiyorum.
+
+Şu anda kendimi; **API tasarımı, nesne yönelimli programlama (OOP), Spring Boot ekosistemi ve backend mimari yaklaşımları** konularında derinleştirmeye odakladım. Staj sürecinde yalnızca görev alan değil, **neden–sonuç ilişkisini anlayarak katkı sunan** bir geliştirici olmayı hedefliyorum.
+
+📫 **İletişim**
+- LinkedIn: https://www.linkedin.com/in/fırat-asi-0a26582a3
+- E-posta: firat_asi@icloud.com
+
+
 
 
 ## 🌐 Socials:
