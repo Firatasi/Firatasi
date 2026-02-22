@@ -22,7 +22,7 @@ Veri tarafında **PostgreSQL, MySQL ve SQL Server** ile çalışma deneyimim bul
 
 📫 **İletişim**
 - LinkedIn: https://www.linkedin.com/in/fırat-asi-0a26582a3
-- E-posta: firat_asi@icloud.com
+- E-posta: firatasi35@gmail.com
 
 
 
