@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmEybXZraG4xMXIwdjIwemc2a2g2MHQ1NzVxdnA4cjlsYmgyMWJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gU25raLP4pUu4/giphy.gif" 
        alt="funny animation" 
        width="4000" 
-       height="100"/>
+       height="110"/>
 </p>
 
 
@@ -44,5 +44,5 @@ Veri tarafında **PostgreSQL, MySQL ve SQL Server** ile çalışma deneyimim bul
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmEybXZraG4xMXIwdjIwemc2a2g2MHQ1NzVxdnA4cjlsYmgyMWJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gU25raLP4pUu4/giphy.gif" 
        alt="funny animation" 
        width="4000" 
-       height="100"/>
+       height="110"/>
 </p>
