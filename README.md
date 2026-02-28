@@ -10,7 +10,7 @@
 ##
 
 
-👋 Merhaba, ben Fırat ASI.
+👋 Merhaba,
 
 Bilişim Sistemleri Mühendisliği öğrencisiyim ve yazılım geliştirmeye özellikle **backend mimarileri** üzerinden yaklaşmayı tercih ediyorum. Benim için backend; sadece “çalışan kod” değil, **doğru tasarlanmış, sürdürülebilir ve ölçeklenebilir sistemler** demek.
 
