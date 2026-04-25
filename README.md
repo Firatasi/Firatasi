@@ -3,9 +3,10 @@
        alt="funny animation" 
        width="4000" 
        height="110"/>
-
+  
+<div align="center">
 Information Systems Engineer | Backend Developer | Full Stack Enthusiast<br><br>Backend Developer with a Full Stack perspective, focused on building scalable and efficient systems.<br>Experienced in Spring Boot (Java), RESTful APIs, Spring Security (JWT), and JPA/Hibernate.<br>Skilled in PostgreSQL and relational database management.<br><br>Familiar with modern frontend technologies including JavaScript, HTML, CSS, Bootstrap, and React.<br><br>Experienced with tools and technologies such as Git, Docker, Maven, and Postman.<br><br>Passionate about APIs, system design, clean architecture, and real-world problem solving.<br>
-
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fırat-asi-0a26582a3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:firatasi35@gmail.com) 
