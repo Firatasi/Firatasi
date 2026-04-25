@@ -29,7 +29,7 @@ Information Systems Engineer | Backend Developer | Full Stack Enthusiast<br><br>
     <td style="width: 30%; border:none;">
       <img 
         src="https://github-readme-stats.shion.dev/api/top-langs/?username=Firatasi&theme=holi&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=4" 
-        width="350" />
+        width="450" />
     </td>
   </tr>
 </table>
