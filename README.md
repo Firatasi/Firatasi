@@ -17,7 +17,10 @@ Information Systems Engineer | Backend Developer | Full Stack Enthusiast<br><br>
 ![](https://streak-stats.demolab.com/?user=Firatasi&theme=holi&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Firatasi&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Firatasi&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmEybXZraG4xMXIwdjIwemc2a2g2MHQ1NzVxdnA4cjlsYmgyMWJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gU25raLP4pUu4/giphy.gif" 
+       alt="funny animation" 
+       width="4000" 
+       height="110"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
