@@ -3,7 +3,7 @@
        alt="funny animation" 
        width="4000" 
        height="110"/>
-Hi! 
+
 Information Systems Engineer | Backend Developer | Full Stack Enthusiast<br><br>Backend Developer with a Full Stack perspective, focused on building scalable and efficient systems.<br>Experienced in Spring Boot (Java), RESTful APIs, Spring Security (JWT), and JPA/Hibernate.<br>Skilled in PostgreSQL and relational database management.<br><br>Familiar with modern frontend technologies including JavaScript, HTML, CSS, Bootstrap, and React.<br><br>Experienced with tools and technologies such as Git, Docker, Maven, and Postman.<br><br>Passionate about APIs, system design, clean architecture, and real-world problem solving.<br>
 
 
