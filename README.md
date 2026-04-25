@@ -16,14 +16,20 @@ Information Systems Engineer | Backend Developer | Full Stack Enthusiast<br><br>
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=Firatasi&theme=holi&hide_border=false&include_all_commits=false&count_private=false" />
+    <td style="width: 40%;">
+      <img 
+        src="https://github-readme-stats.shion.dev/api?username=Firatasi&theme=holi&hide_border=false&include_all_commits=false&count_private=false" 
+        width="100%" />
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Firatasi&theme=holi&hide_border=false" />
+    <td style="width: 30%;">
+      <img 
+        src="https://streak-stats.demolab.com/?user=Firatasi&theme=holi&hide_border=false" 
+        width="100%" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Firatasi&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <td style="width: 30%;">
+      <img 
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=Firatasi&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+        width="100%" />
     </td>
   </tr>
 </table>
