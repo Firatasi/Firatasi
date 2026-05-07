@@ -30,7 +30,7 @@ Information Systems Engineer | Backend Developer | Full Stack Enthusiast<br><br>
     </td>
 <td width="33%">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&height=160&lines=Backend+Developer;Spring+Boot+%26+FastAPI;RESTful+API+Design;Clean+Architecture;Database+Management" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Firatasi&theme=github_dark" 
     width="100%" />
 </td>
   </tr>
