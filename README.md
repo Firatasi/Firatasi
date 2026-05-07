@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmEybXZraG4xMXIwdjIwemc2a2g2MHQ1NzVxdnA4cjlsYmgyMWJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gU25raLP4pUu4/giphy.gif" 
-       alt="funny animation" 
-       width="4000" 
-       height="110"/>
-  
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:000428,50:004e92,100:00d4ff&text=FIRAT%20ASI&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER&descSize=22&descAlign=50&descAlignY=62&animation=twinkling"
+    width="100%" 
+    alt="Firat Asi Full Stack Developer Banner" />
+</p>
+
 <div align="center">
 Information Systems Engineer | Backend Developer | Full Stack Enthusiast<br><br>Backend Developer with a Full Stack perspective, focused on building scalable and efficient systems.<br>Experienced in Spring Boot (Java), RESTful APIs, Spring Security (JWT), and JPA/Hibernate.<br>Skilled in PostgreSQL and relational database management.<br><br>Familiar with modern frontend technologies including JavaScript, HTML, CSS, Bootstrap, and React.<br><br>Experienced with tools and technologies such as Git, Docker, Maven, and Postman.<br><br>Passionate about APIs, system design, clean architecture, and real-world problem solving.<br>
 </div>
@@ -19,26 +20,26 @@ Information Systems Engineer | Backend Developer | Full Stack Enthusiast<br><br>
   <tr>
     <td width="40%">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=Firatasi&theme=holi&hide_border=true&include_all_commits=false&count_private=false" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Firatasi&theme=github_dark" 
         width="100%" />
     </td>
-    <td width="30%">
+    <td width="33%">
       <img 
         src="https://streak-stats.demolab.com/?user=Firatasi&theme=holi&hide_border=true" 
         width="100%" />
     </td>
-    <td width="30%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firatasi&theme=holi&hide_border=true&layout=compact&langs_count=4" 
-        width="450" />
-    </td>
+<td width="33%">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&height=160&lines=Backend+Developer;Spring+Boot+%26+FastAPI;RESTful+API+Design;Clean+Architecture;Database+Management" 
+    width="100%" />
+</td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmEybXZraG4xMXIwdjIwemc2a2g2MHQ1NzVxdnA4cjlsYmgyMWJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gU25raLP4pUu4/giphy.gif" 
-       alt="funny animation" 
-       width="4000" 
-       height="110"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:000428,50:004e92,100:00d4ff"
+    width="100%" 
+    alt="footer wave" />
 </p>
 
